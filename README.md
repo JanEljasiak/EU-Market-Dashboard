@@ -18,8 +18,3 @@ To provide business leaders and analysts with a **clear, comparative view of inf
 - 📊 **Bar Charts**: Rank countries based on inflation change to highlight stable vs. volatile economies.
 - 🧮 **Delta Labels**: Maps with direct inflation change annotations (e.g., “+3.4%”).
 - 🎯 **Business Context**: Focused on market expansion strategy, pricing, and economic stability.
-
----
-
-## 🗂️ File Structure
-
